@@ -1,0 +1,5 @@
+likeFilm: "Хатико",
+likeSerial: "ДокторХаус",
+likeFood: оладьи,
+likeSeason: лето,
+country: Грузия.
